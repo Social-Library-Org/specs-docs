@@ -1,3 +1,2 @@
-# My Awesome Book
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+# tech-docs
+All technical documentation around Social Library
