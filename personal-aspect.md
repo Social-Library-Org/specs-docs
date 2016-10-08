@@ -10,7 +10,7 @@ A media can only be a child of CreativeWork according to schema.org and which is
   - Book: [https://schema.org/Book](https://schema.org/Book)
   - Game: [https://schema.org/Game](https://schema.org/Game)
   - Movie: [https://schema.org/Movie](https://schema.org/Movie)
-  - MusicPlaylist: [https://schema.org\/MusicPlaylist](https://schema.org/MusicPlaylist)
+  - MusicPlaylist: [https://schema.org/MusicPlaylist](https://schema.org/MusicPlaylist)
   - TVSeries: [https://schema.org/TVSeries](https://schema.org/TVSeries)
 
 Following fields are mandatory when creating and editing a media:
