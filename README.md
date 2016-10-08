@@ -16,7 +16,7 @@ Social Library aim is to help to manage a personal library of physical medias.
 
 Only medias can be managed in Social Library.
 
-**Media:** every physical object which complies to CreativeWork definition from schema.org [https:\/\/schema.org\/CreativeWork](https://schema.org/CreativeWork)
+**Media:** every physical object which complies to CreativeWork definition from schema.org [https://schema.org/CreativeWork](https://schema.org/CreativeWork)
 
 ## Aspects
 
